@@ -1,7 +1,7 @@
 # 🎵 Spotify Data Analysis and Visualization 🎧
 
 # 📌 Screenshot
-![Project Overview](spotify.png)
+![Project Overview](Spotify.png)
 
 # 📌 Project Overview
 
