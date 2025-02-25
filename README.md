@@ -1,20 +1,20 @@
-🎵 Spotify Data Analysis and Visualization 🎧
+#🎵 Spotify Data Analysis and Visualization 🎧
 
-📌 Project Overview
+#📌 Project Overview
 
 This project is a comprehensive Spotify Data Analysis and Visualization using Power BI and Python. The dataset was enriched with album cover URLs using the Spotify Developer API, and extensive data cleaning, transformation, and visualization were performed to extract meaningful insights about music trends, track popularity, and genre distribution.
 
 🔹 Key Highlights:✅ Python + Power BI Integration for data preprocessing and interactive visualizations✅ Spotify API Usage to fetch album cover images dynamically✅ DAX-powered Analytics for in-depth music trend analysis✅ Visually Engaging Power BI Dashboard with filters & slicers for dynamic insights
 
-🚀 Features
+#🚀 Features
 
 ✨ Data Enrichment using Spotify API – Track album cover URLs added dynamically✨ Power Query Transformations – Data cleaning, type conversion & duplicate removal✨ DAX Measures & Calculations – Popularity scores, streaming trends & genre insights✨ Interactive Dashboard – Fully interactive with charts, filters & drill-through analysis✨ Data Modeling & Relationships – Structured Tracks, Artists, Albums & Genres tables✨ Album Cover Integration – Direct album image display in Power BI report
 
-🛠️ Technologies Used
+#🛠️ Technologies Used
 
 💻 Python (Pandas, Spotipy) – Data Extraction & Preprocessing🎵 Spotify API – Fetching track metadata & album cover images📊 Power BI – Data Modeling, Visualization & Dashboarding📈 DAX (Data Analysis Expressions) – Custom measures & analytics
 
-📂 Project Structure
+#📂 Project Structure
 
 🔹 Data Preprocessing with Python
 
@@ -45,9 +45,9 @@ df["track_album_url"] = df.apply(lambda row: get_album_url(row["track_name"], ro
 # Save updated dataset
 df.to_csv("spotify_data_updated.csv", index=False)
 
-🎨 Power BI Dashboard
+#🎨 Power BI Dashboard
 
-📊 Visuals Included
+#📊 Visuals Included
 
 📌 Top Artists & Tracks – Bar Chart📌 Streaming Trends Over Time – Line Chart📌 Genre Distribution – Treemap📌 Acoustic vs. Electronic Songs – Donut Chart📌 Music Feature Impact on Popularity – Waterfall Chart
 
