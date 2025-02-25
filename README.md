@@ -1,5 +1,8 @@
 # 🎵 Spotify Data Analysis and Visualization 🎧
 
+# 📌 Screenshot
+![Project Overview](spotify.png)
+
 # 📌 Project Overview
 
 This project is a comprehensive Spotify Data Analysis and Visualization using Power BI and Python. The dataset was enriched with album cover URLs using the Spotify Developer API, and extensive data cleaning, transformation, and visualization were performed to extract meaningful insights about music trends, track popularity, and genre distribution.
